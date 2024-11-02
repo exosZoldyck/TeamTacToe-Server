@@ -1,0 +1,1 @@
+This directory should contain a `fullchain.crt` and `privkey.key` file.
